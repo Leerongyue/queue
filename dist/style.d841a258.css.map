@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CACjB,iBACF,CACA,QACE,oBAAqB,CACrB,WAAY,CACZ,YACF","file":"style.d841a258.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  margin-top: 150px;\r\n  margin-left: 500px;\r\n}\r\n#screen {\r\n  border: 1px solid red;\r\n  width: 200px;\r\n  height: 200px;\r\n}\r\n"]}
